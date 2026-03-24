@@ -65,7 +65,7 @@ const LandingPage = () => {
             </HeroRow>
             <HeroRow>
               <Text>
-                <Title>Temukan barang yang kamu inginkan di Cuyshop</Title>
+                <Title>Temukan produk yang kamu inginkan di Cuyshop</Title>
                 <SubTitle>
                   Cuyshop adalah e-commerce yang dapat memberikan pengalaman
                   terbaik untuk jual beli bagi pengguna
